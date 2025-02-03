@@ -7,6 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MgHDDEuWd2)
 
 ![morthi-ago's GitHub stats](https://github-readme-stats.vercel.app/api?username=morthi-ago&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morthi-ago&layout=compact)
 
 ## Interesses e aprendizados!
 
@@ -18,4 +19,4 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morthi-ago&layout=compact)
+
